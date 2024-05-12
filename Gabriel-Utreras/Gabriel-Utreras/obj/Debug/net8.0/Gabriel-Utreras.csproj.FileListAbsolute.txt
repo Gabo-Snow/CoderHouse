@@ -1,0 +1,14 @@
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\bin\Debug\net8.0\Gabriel-Utreras.exe
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\bin\Debug\net8.0\Gabriel-Utreras.deps.json
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\bin\Debug\net8.0\Gabriel-Utreras.runtimeconfig.json
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\bin\Debug\net8.0\Gabriel-Utreras.dll
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\bin\Debug\net8.0\Gabriel-Utreras.pdb
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utreras.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utreras.AssemblyInfoInputs.cache
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utreras.AssemblyInfo.cs
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utreras.csproj.CoreCompileInputs.cache
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utreras.dll
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\refint\Gabriel-Utreras.dll
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utreras.pdb
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utreras.genruntimeconfig.cache
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\ref\Gabriel-Utreras.dll
