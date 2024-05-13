@@ -8,11 +8,11 @@ namespace Gabriel_Utreras
 {
     public class Usuario
     {
-        private int Id { get; set; }
-        private string Nombre { get; set; }
-        private string Apellido { get; set; }
-        private string Contrasena { get; set; }
-        private string Email { get; set; }
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public string Contrasena { get; set; }
+        public string Email { get; set; }
 
         public Usuario()
         {

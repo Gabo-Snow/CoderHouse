@@ -12,3 +12,4 @@ D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\refint\Gabri
 D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utreras.pdb
 D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utreras.genruntimeconfig.cache
 D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\ref\Gabriel-Utreras.dll
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utreras.sourcelink.json
