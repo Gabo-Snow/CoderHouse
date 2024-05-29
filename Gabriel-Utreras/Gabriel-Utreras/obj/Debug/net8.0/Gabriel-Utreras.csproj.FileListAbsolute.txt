@@ -13,3 +13,11 @@ D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utre
 D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utreras.genruntimeconfig.cache
 D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\ref\Gabriel-Utreras.dll
 D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utreras.sourcelink.json
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-Utreras.csproj.AssemblyReference.cache
+D:\ProG\CoderHouse\Gabriel-Utreras\Gabriel-Utreras\obj\Debug\net8.0\Gabriel-.34C8BA2C.Up2Date
