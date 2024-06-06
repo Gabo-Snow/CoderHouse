@@ -16,11 +16,13 @@ namespace Gabriel_Utreras.Metodos
         public static List<Producto> ObtenerProducto (int idProducto)
         {
             List<Producto> listaProducto = new List<Producto> ();
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+
+
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
             var query = "Select Id, Descripciones, Costo, PrecioVenta, Stock, IdUsuario FROM Producto WHERE Id=@idProducto;";
-            using (SqlConnection conexion = new SqlConnection(connectionString))
+            using (SqlConnection conexion = ConexionADO.GetConexion()) // se reemplaza el "string connectionString" con la clase ConexionADO que hace lo mismo
             {
-                conexion.Open ();
+                
                 using (SqlCommand comando = new SqlCommand(query, conexion))
                 {
                     var parametro = new SqlParameter();
@@ -60,11 +62,11 @@ namespace Gabriel_Utreras.Metodos
         public static List<Producto> ListarProductos()
         {
             List<Producto> listaDeProductos = new List<Producto>();
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
             var query = "Select Id, Descripciones, Costo, PrecioVenta, Stock, IdUsuario FROM Producto";
-            using (SqlConnection conexion = new SqlConnection(connectionString))
+            using (SqlConnection conexion = ConexionADO.GetConexion())
             {
-                conexion.Open();
+                //conexion.Open();
                 using (SqlCommand comando = new SqlCommand(query, conexion))
                 {
                     using (SqlDataReader dataReader = comando.ExecuteReader())
@@ -95,14 +97,14 @@ namespace Gabriel_Utreras.Metodos
 
         public static void CrearProducto(Producto producto)
         {
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
 
             var query = "INSERT INTO Producto (Descripciones, Costo, PrecioVenta, Stock, IdUsuario)" + 
                 "VALUES (@Descripcion, @Costo, @PrecioVenta, @Stock, @IdUsuario)";
 
-            using (SqlConnection conexion = new SqlConnection(connectionString))
+            using (SqlConnection conexion = ConexionADO.GetConexion())
             {
-                conexion.Open();
+                //conexion.Open();
 
                 using (SqlCommand comando = new SqlCommand(query, conexion)) 
                 {
@@ -122,7 +124,7 @@ namespace Gabriel_Utreras.Metodos
 
         public static void ModificarProducto(Producto producto)
         {
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
             var query = "UPDATE Producto " +
                         "SET Descripciones = @Descripcion, " +
                         "Costo = @Costo, " +
@@ -131,9 +133,9 @@ namespace Gabriel_Utreras.Metodos
                         "IdUsuario = @IdUsuario " +
                         "WHERE Id = @Id";
 
-            using (SqlConnection conexion = new SqlConnection(connectionString)) 
+            using (SqlConnection conexion = ConexionADO.GetConexion()) 
             {
-                conexion.Open();
+                //conexion.Open();
                 using (SqlCommand comando = new SqlCommand(query, conexion)) 
                 {
                     comando.Parameters.Add(new SqlParameter("Id", SqlDbType.Int) { Value = producto.Id });
@@ -152,13 +154,13 @@ namespace Gabriel_Utreras.Metodos
 
         public static void EliminarProducto(Producto producto)
         {
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
 
             var query = "DELETE FROM Producto WHERE Id= @Id";
 
-            using (SqlConnection conexion = new SqlConnection(connectionString)) 
+            using (SqlConnection conexion = ConexionADO.GetConexion()) 
             {
-                conexion.Open();
+                //conexion.Open();
                 using (SqlCommand comando = new SqlCommand(query, conexion)) 
                 {
                     comando.Parameters.Add(new SqlParameter("Id", SqlDbType.Int) { Value = producto.Id });

@@ -14,11 +14,11 @@ namespace Gabriel_Utreras.Metodos
         public static List<Venta> ObtenerVenta(int idVenta)
         {
             List<Venta> listaVenta = new List<Venta>();
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
             var query = "Select Id, Comentarios, IdUsuario FROM Venta WHERE Id=@IdVenta;";
-            using (SqlConnection conexion = new SqlConnection(connectionString))
+            using (SqlConnection conexion = ConexionADO.GetConexion())
             {
-                conexion.Open();
+                //conexion.Open();
                 using (SqlCommand comando = new SqlCommand(query, conexion))
                 {
                     var parametro = new SqlParameter();
@@ -53,11 +53,11 @@ namespace Gabriel_Utreras.Metodos
         public static List<Venta> ListarVentas()
         {
             List<Venta> listaVenta = new List<Venta>();
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
             var query = "Select Id, Comentarios, IdUsuario FROM Venta";
-            using (SqlConnection conexion = new SqlConnection(connectionString))
+            using (SqlConnection conexion = ConexionADO.GetConexion())
             {
-                conexion.Open();
+                //conexion.Open();
                 using (SqlCommand comando = new SqlCommand(query, conexion))
                 {
 
@@ -87,14 +87,14 @@ namespace Gabriel_Utreras.Metodos
 
         public static void CrearVenta(Venta venta)
         {
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
 
             var query = "INSERT INTO Venta (Comentarios, IdUsuario)" +
                 "VALUES (@Comentarios, @IdUsuario)";
 
-            using (SqlConnection conexion = new SqlConnection(connectionString))
+            using (SqlConnection conexion = ConexionADO.GetConexion())
             {
-                conexion.Open();
+                //conexion.Open();
 
                 using (SqlCommand comando = new SqlCommand(query, conexion))
                 {
@@ -111,15 +111,15 @@ namespace Gabriel_Utreras.Metodos
 
         public static void ModificarVenta(Venta venta)
         {
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
             var query = "UPDATE Venta " +
                         "SET Comentarios = @Comentarios, " +
                         "IdUsuario = @IdUsuario " +
                         "WHERE Id = @Id";
 
-            using (SqlConnection conexion = new SqlConnection(connectionString))
+            using (SqlConnection conexion = ConexionADO.GetConexion())
             {
-                conexion.Open();
+                //conexion.Open();
                 using (SqlCommand comando = new SqlCommand(query, conexion))
                 {
                     comando.Parameters.Add(new SqlParameter("Id", SqlDbType.Int) { Value = venta.Id });
@@ -134,13 +134,13 @@ namespace Gabriel_Utreras.Metodos
         }
         public static void EliminarVenta(Venta venta)
         {
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
 
             var query = "DELETE FROM Venta WHERE Id= @Id";
 
-            using (SqlConnection conexion = new SqlConnection(connectionString))
+            using (SqlConnection conexion = ConexionADO.GetConexion())
             {
-                conexion.Open();
+                //conexion.Open();
                 using (SqlCommand comando = new SqlCommand(query, conexion))
                 {
                     comando.Parameters.Add(new SqlParameter("Id", SqlDbType.Int) { Value = venta.Id });

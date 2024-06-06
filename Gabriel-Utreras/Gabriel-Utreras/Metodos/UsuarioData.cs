@@ -15,11 +15,11 @@ namespace Gabriel_Utreras.Metodos
         public static List<Usuario> ObtenerUsuario (int idUsuario)
         {
             List<Usuario> listaUsuario = new List<Usuario>();
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
             var query = "Select Id, Nombre, Apellido, NombreUsuario, Contraseña, Mail FROM Usuario WHERE Id=@idUsuario;";
-            using (SqlConnection conexion = new SqlConnection(connectionString))
+            using (SqlConnection conexion = ConexionADO.GetConexion())
             {
-                conexion.Open();
+                //conexion.Open();
                 using (SqlCommand comando = new SqlCommand(query, conexion))
                 {
                     var parametro = new SqlParameter();
@@ -58,11 +58,11 @@ namespace Gabriel_Utreras.Metodos
         public static List<Usuario> ListarUsuarios()
         {
             List<Usuario> listaDeUsuarios = new List<Usuario>();
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
             var query = "Select Id, Nombre, Apellido, NombreUsuario, Contraseña, Mail FROM Usuario";
-            using (SqlConnection conexion = new SqlConnection(connectionString))
+            using (SqlConnection conexion = ConexionADO.GetConexion())
             {
-                conexion.Open();
+                //conexion.Open();
                 using (SqlCommand comando = new SqlCommand(query, conexion))
                 {
                     using (SqlDataReader dataReader = comando.ExecuteReader())
@@ -93,14 +93,14 @@ namespace Gabriel_Utreras.Metodos
 
         public static void CrearUsuario(Usuario usuario)
         {
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
 
             var query = "INSERT INTO Usuario (Nombre, Apellido, NombreUsuario, Contraseña, Mail)" +
                 "VALUES (@Nombre, @Apellido, @NombreUsuario, @Contraseña, @Mail)";
 
-            using (SqlConnection conexion = new SqlConnection(connectionString))
+            using (SqlConnection conexion = ConexionADO.GetConexion())
             {
-                conexion.Open();
+                //conexion.Open();
 
                 using (SqlCommand comando = new SqlCommand(query, conexion))
                 {
@@ -119,7 +119,7 @@ namespace Gabriel_Utreras.Metodos
         }
         public static void ModificarProducto(Usuario usuario)
         {
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
             var query = "UPDATE Usuario " +
                         "SET Nombre = @Nombre, " +
                         "Apellido = @Apellido, " +
@@ -128,9 +128,9 @@ namespace Gabriel_Utreras.Metodos
                         "Mail= @Mail " +
                         "WHERE Id = @Id";
 
-            using (SqlConnection conexion = new SqlConnection(connectionString))
+            using (SqlConnection conexion = ConexionADO.GetConexion())
             {
-                conexion.Open();
+                //conexion.Open();
                 using (SqlCommand comando = new SqlCommand(query, conexion))
                 {
                     comando.Parameters.Add(new SqlParameter("Id", SqlDbType.Int) { Value = usuario.Id });
@@ -149,13 +149,13 @@ namespace Gabriel_Utreras.Metodos
 
         public static void EliminarUsuario(Usuario usuario)
         {
-            string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
+            //string connectionString = @"Server=localhost\SQLExpress;Database=SistemaGestion;Trusted_Connection=True;";
 
             var query = "DELETE FROM Usuario WHERE Id= @Id";
 
-            using (SqlConnection conexion = new SqlConnection(connectionString))
+            using (SqlConnection conexion = ConexionADO.GetConexion())
             {
-                conexion.Open();
+                //conexion.Open();
                 using (SqlCommand comando = new SqlCommand(query, conexion))
                 {
                     comando.Parameters.Add(new SqlParameter("Id", SqlDbType.Int) { Value = usuario.Id });
