@@ -3,13 +3,29 @@
   "WorkspaceRootPath": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33DDC367-8C89-4A34-9FD9-4DF2464B1493}|..\\SistemaGestionUI\\SistemaGestionUI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestionui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestion\\sistemagestionwebapi\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|solutionrelative:sistemagestionwebapi\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33DDC367-8C89-4A34-9FD9-4DF2464B1493}|..\\SistemaGestionUI\\SistemaGestionUI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestionui\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestion\\sistemagestionwebapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|solutionrelative:sistemagestionwebapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF78BC65-9111-42FA-9120-E8C4042AE985}|..\\SistemaGestionEntities\\SistemaGestionEntities.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestionentities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestion\\sistemagestionwebapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|solutionrelative:sistemagestionwebapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestion\\sistemagestionwebapi\\controllers\\productovendidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|solutionrelative:sistemagestionwebapi\\controllers\\productovendidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DDC367-8C89-4A34-9FD9-4DF2464B1493}|..\\SistemaGestionUI\\SistemaGestionUI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestionui\\formproductovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DDC367-8C89-4A34-9FD9-4DF2464B1493}|..\\SistemaGestionUI\\SistemaGestionUI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestionui\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B265CE0A-0C3B-494A-AB2C-9F412F43DC62}|..\\SistemaGestionData\\SistemaGestionData.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestiondata\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,62 +40,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionUI\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\SistemaGestionUI\\Form1.cs",
-              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionUI\\Form1.cs",
-              "RelativeToolTip": "..\\SistemaGestionUI\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionWebAPI\\Controllers\\VentaController.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "SistemaGestionWebAPI\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T14:09:03.12Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-06-13T19:55:22.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionWebAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaGestionWebAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:51:04.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoVendidoController.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\ProductoVendidoController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionWebAPI\\Controllers\\ProductoVendidoController.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\ProductoVendidoController.cs",
+              "RelativeToolTip": "SistemaGestionWebAPI\\Controllers\\ProductoVendidoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:47:53.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormProductoVendido.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionUI\\FormProductoVendido.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionUI\\FormProductoVendido.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionUI\\FormProductoVendido.cs",
+              "RelativeToolTip": "..\\SistemaGestionUI\\FormProductoVendido.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwD8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:43:49.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormProducto.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionUI\\FormProducto.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionUI\\FormProducto.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionUI\\FormProducto.cs",
+              "RelativeToolTip": "..\\SistemaGestionUI\\FormProducto.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAnwFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:42:45.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoData.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionData\\ProductoData.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionData\\ProductoData.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionData\\ProductoData.cs",
+              "RelativeToolTip": "..\\SistemaGestionData\\ProductoData.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAjwJ8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:11:25.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormUsuario.cs",
-              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionUI\\FormUsuario.cs",
-              "RelativeDocumentMoniker": "..\\SistemaGestionUI\\FormUsuario.cs",
-              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionUI\\FormUsuario.cs",
-              "RelativeToolTip": "..\\SistemaGestionUI\\FormUsuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAoAAAA",
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionWebAPI\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "SistemaGestionWebAPI\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T14:42:36.979Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "5a28d726-998f-4c72-b11f-d00e878f4918",
-        "Display": 0,
-        "X": 728,
-        "Y": 120,
-        "Width": 1362,
-        "Height": 784,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionEntities\\Venta.cs",
-              "RelativeDocumentMoniker": "..\\SistemaGestionEntities\\Venta.cs",
-              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionEntities\\Venta.cs",
-              "RelativeToolTip": "..\\SistemaGestionEntities\\Venta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T14:32:44.812Z",
+              "WhenOpened": "2024-06-13T16:20:04.35Z",
               "EditorCaption": ""
             }
           ]

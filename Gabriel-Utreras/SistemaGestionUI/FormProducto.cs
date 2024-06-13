@@ -71,9 +71,9 @@ namespace SistemaGestionUI
 
             if (int.Parse(id) != 0)
             {
-                Producto eliminarProducto = new Producto { Id = int.Parse(id) };
+                //Producto eliminarProducto = new Producto { Id = int.Parse(id) };
 
-                ProductoBussiness.DeleteProducto(eliminarProducto);
+                Producto eliminarProducto = new Producto { Id = int.Parse(id) };
                 MessageBox.Show("Producto Eliminado con Éxito");
             }
             else
