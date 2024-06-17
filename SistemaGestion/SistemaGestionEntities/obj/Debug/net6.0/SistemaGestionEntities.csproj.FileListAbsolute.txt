@@ -1,0 +1,13 @@
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.AssemblyReference.cache
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.sourcelink.json
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll

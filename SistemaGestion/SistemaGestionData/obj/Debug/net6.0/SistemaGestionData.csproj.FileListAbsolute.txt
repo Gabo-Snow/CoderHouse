@@ -1,0 +1,16 @@
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.sourcelink.json
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaG.92EE484C.Up2Date
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+D:\ProG\CoderHouse\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll

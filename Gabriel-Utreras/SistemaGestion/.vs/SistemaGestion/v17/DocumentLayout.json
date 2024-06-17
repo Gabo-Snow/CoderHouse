@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|solutionrelative:sistemagestionwebapi\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestion\\sistemagestionwebapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|solutionrelative:sistemagestionwebapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestion\\sistemagestionwebapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|solutionrelative:sistemagestionwebapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,13 +15,46 @@
       "RelativeMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|solutionrelative:sistemagestionwebapi\\controllers\\productovendidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestion\\sistemagestionwebapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|solutionrelative:sistemagestionwebapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C163758-635E-4B07-8EC8-F66BFDD0FF91}|..\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestionbussiness\\ventabussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C163758-635E-4B07-8EC8-F66BFDD0FF91}|..\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestionbussiness\\usuariobussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C163758-635E-4B07-8EC8-F66BFDD0FF91}|..\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestionbussiness\\productobussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C163758-635E-4B07-8EC8-F66BFDD0FF91}|..\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestionbussiness\\sistemagestionbussiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B265CE0A-0C3B-494A-AB2C-9F412F43DC62}|..\\SistemaGestionData\\SistemaGestionData.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestiondata\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B265CE0A-0C3B-494A-AB2C-9F412F43DC62}|..\\SistemaGestionData\\SistemaGestionData.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestiondata\\conexionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestion\\sistemagestionwebapi\\sistemagestionwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|solutionrelative:sistemagestionwebapi\\sistemagestionwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF78BC65-9111-42FA-9120-E8C4042AE985}|..\\SistemaGestionEntities\\SistemaGestionEntities.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestionentities\\sistemagestionentities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B265CE0A-0C3B-494A-AB2C-9F412F43DC62}|..\\SistemaGestionData\\SistemaGestionData.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestiondata\\sistemagestiondata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestion\\sistemagestionwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E04A4BFB-A1E0-4DC3-B3E1-726DB163B832}|SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj|solutionrelative:sistemagestionwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33DDC367-8C89-4A34-9FD9-4DF2464B1493}|..\\SistemaGestionUI\\SistemaGestionUI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestionui\\formproductovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33DDC367-8C89-4A34-9FD9-4DF2464B1493}|..\\SistemaGestionUI\\SistemaGestionUI.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestionui\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B265CE0A-0C3B-494A-AB2C-9F412F43DC62}|..\\SistemaGestionData\\SistemaGestionData.csproj|d:\\prog\\coderhouse\\gabriel-utreras\\sistemagestiondata\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,8 +64,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentaBussiness.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionBussiness\\VentaBussiness.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionBussiness\\VentaBussiness.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionBussiness\\VentaBussiness.cs",
+              "RelativeToolTip": "..\\SistemaGestionBussiness\\VentaBussiness.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:30:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioBussiness.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionBussiness\\UsuarioBussiness.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionBussiness\\UsuarioBussiness.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionBussiness\\UsuarioBussiness.cs",
+              "RelativeToolTip": "..\\SistemaGestionBussiness\\UsuarioBussiness.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:30:14.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoBussiness.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionBussiness\\ProductoBussiness.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionBussiness\\ProductoBussiness.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionBussiness\\ProductoBussiness.cs",
+              "RelativeToolTip": "..\\SistemaGestionBussiness\\ProductoBussiness.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:29:45.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionWebAPI\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "SistemaGestionWebAPI\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:20:04.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoVendidoController.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\ProductoVendidoController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionWebAPI\\Controllers\\ProductoVendidoController.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\ProductoVendidoController.cs",
+              "RelativeToolTip": "SistemaGestionWebAPI\\Controllers\\ProductoVendidoController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:47:53.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionWebAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaGestionWebAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwEoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:51:04.7Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -45,40 +152,105 @@
               "RelativeDocumentMoniker": "SistemaGestionWebAPI\\Controllers\\VentaController.cs",
               "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\VentaController.cs",
               "RelativeToolTip": "SistemaGestionWebAPI\\Controllers\\VentaController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAAAAAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T19:55:22.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "SistemaGestionWebAPI\\Controllers\\UsuarioController.cs",
-              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "SistemaGestionWebAPI\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwDsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T19:51:04.7Z",
+              "DocumentIndex": 7,
+              "Title": "SistemaGestionBussiness",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
+              "RelativeDocumentMoniker": "..\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
+              "RelativeToolTip": "..\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T16:23:34.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductoVendidoController.cs",
-              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\ProductoVendidoController.cs",
-              "RelativeDocumentMoniker": "SistemaGestionWebAPI\\Controllers\\ProductoVendidoController.cs",
-              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\ProductoVendidoController.cs",
-              "RelativeToolTip": "SistemaGestionWebAPI\\Controllers\\ProductoVendidoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAYAAAA",
+              "DocumentIndex": 9,
+              "Title": "ConexionADO.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionData\\ConexionADO.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionData\\ConexionADO.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionData\\ConexionADO.cs",
+              "RelativeToolTip": "..\\SistemaGestionData\\ConexionADO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T19:47:53.807Z",
+              "WhenOpened": "2024-06-17T16:27:17.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
+              "Title": "SistemaGestionWebAPI",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj",
+              "RelativeDocumentMoniker": "SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj",
+              "RelativeToolTip": "SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T16:25:16.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SistemaGestionEntities",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
+              "RelativeDocumentMoniker": "..\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
+              "RelativeToolTip": "..\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T16:25:11.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SistemaGestionData",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionData\\SistemaGestionData.csproj",
+              "RelativeDocumentMoniker": "..\\SistemaGestionData\\SistemaGestionData.csproj",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionData\\SistemaGestionData.csproj",
+              "RelativeToolTip": "..\\SistemaGestionData\\SistemaGestionData.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T16:24:59.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SistemaGestionWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SistemaGestionWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T20:42:12.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoData.cs",
+              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionData\\ProductoData.cs",
+              "RelativeDocumentMoniker": "..\\SistemaGestionData\\ProductoData.cs",
+              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionData\\ProductoData.cs",
+              "RelativeToolTip": "..\\SistemaGestionData\\ProductoData.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAcwK4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:11:25.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "FormProductoVendido.cs",
               "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionUI\\FormProductoVendido.cs",
               "RelativeDocumentMoniker": "..\\SistemaGestionUI\\FormProductoVendido.cs",
@@ -86,12 +258,11 @@
               "RelativeToolTip": "..\\SistemaGestionUI\\FormProductoVendido.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAmwD8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T16:43:49.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T16:43:49.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "FormProducto.cs",
               "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionUI\\FormProducto.cs",
               "RelativeDocumentMoniker": "..\\SistemaGestionUI\\FormProducto.cs",
@@ -99,34 +270,7 @@
               "RelativeToolTip": "..\\SistemaGestionUI\\FormProducto.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAnwFEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T16:42:45.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductoData.cs",
-              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionData\\ProductoData.cs",
-              "RelativeDocumentMoniker": "..\\SistemaGestionData\\ProductoData.cs",
-              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestionData\\ProductoData.cs",
-              "RelativeToolTip": "..\\SistemaGestionData\\ProductoData.cs",
-              "ViewState": "AQIAAJIAAAAAAAAAAAAjwJ8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T16:11:25.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "SistemaGestionWebAPI\\Controllers\\ProductoController.cs",
-              "ToolTip": "D:\\ProG\\CoderHouse\\Gabriel-Utreras\\SistemaGestion\\SistemaGestionWebAPI\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "SistemaGestionWebAPI\\Controllers\\ProductoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T16:20:04.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T16:42:45.342Z"
             }
           ]
         }
