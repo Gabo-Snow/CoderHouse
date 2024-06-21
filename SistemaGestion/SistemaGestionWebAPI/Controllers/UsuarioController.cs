@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using SistemaGestionBussiness;
 using SistemaGestionEntities;
 
@@ -72,5 +71,39 @@ namespace SistemaGestionWebAPI.Controllers
                 return StatusCode(500, "No se pudo agregar el Usuario " + ex.Message);
             }
         }
+
+        [HttpGet("ObtenerUsuariosPorNombre")]
+        public IActionResult GetUsuarioPorNombre(string nombre)
+        {
+            List<Usuario> usuarios = UsuarioBussiness.GetUsuariosPorNombre(nombre);
+
+            return Ok(usuarios);
+
+        }
+
+        [HttpGet("ObtenerNombre")]
+        public IActionResult GetNombrePorIdUsuario(int idUsuario)
+        {
+            var usuarioEncontrado = UsuarioBussiness.GetNombrePorId(idUsuario);
+            if (usuarioEncontrado != null)
+            {
+                return Ok(usuarioEncontrado);
+            }
+            else
+            {
+                return NotFound("Usuario no encontrado");
+            }
+        }
+
+        [HttpGet("ObtenerUsuarioNombreParcial")]
+        public IActionResult GetUsuarioPorNombreParcial(string nombre)
+        {
+            List<Usuario> usuarios = UsuarioBussiness.GetUsuariosPorNombreParcial(nombre);
+
+            return Ok(usuarios);
+
+        }
+
+
     }
 }

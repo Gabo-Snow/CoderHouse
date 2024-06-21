@@ -34,5 +34,23 @@ namespace SistemaGestionBussiness
         {
             UsuarioData.EliminarUsuario(usuario);
         }
+
+        public static List<Usuario> GetUsuariosPorNombre(string nombreRealUsuario)
+        {
+            return UsuarioData.ObtenerPorNombre(nombreRealUsuario);
+        }
+
+        public static Usuario GetNombrePorId(int idUsuario)
+        {
+            return UsuarioData.ObtenerNombrePorId(idUsuario);
+
+        }
+
+        public static List<Usuario> GetUsuariosPorNombreParcial(string nombreRealUsuarioParcial)
+        {
+            return UsuarioData.ObtenerPorNombreParcial(nombreRealUsuarioParcial);
+        }
+
+
     }
 }
